@@ -1,6 +1,6 @@
 # Covid19-Data-Analysis
 
-Analysing Covi19 pateints worldwide. 
+Analysing Covid19 pateints worldwide. 
 
 Tasks covered :- 
 
