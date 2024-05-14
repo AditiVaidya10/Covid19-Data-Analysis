@@ -1,4 +1,4 @@
-### COVID-19 Data Analysis 📊🦠
+#  COVID-19 Data Analysis 📊🦠
 
 Welcome to COVID-19 Data Analysis repository! Here, I delve into the numbers, trends, and insights surrounding the global pandemic. From visualizations to predictive modeling, dedicated to uncovering the stories hidden within the data.
 
